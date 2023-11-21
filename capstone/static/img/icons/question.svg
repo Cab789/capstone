@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 2</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-64.000000, -672.000000)">
-            <g id="Group-2" transform="translate(64.000000, 672.000000)">
-                <circle id="Oval" fill="#0096FF" cx="12.5" cy="12.5" r="12.5"></circle>
-                <text id="?" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.342857143" fill="#FFFFFF">
-                    <tspan x="9" y="18">?</tspan>
-                </text>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" version="1.1" viewBox="0 0 25 25"><title>Group 2</title><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Artboard" transform="translate(-64.000000, -672.000000)"><g id="Group-2" transform="translate(64.000000, 672.000000)"><circle id="Oval" cx="12.5" cy="12.5" r="12.5" fill="#0096FF"/><text id="?" fill="#FFF" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing=".343"><tspan x="9" y="18">?</tspan></text></g></g></g></svg>
